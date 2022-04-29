@@ -749,6 +749,7 @@ name = "pupper-master"
 version = "0.1.0"
 dependencies = [
  "anchor-lang",
+ "bytemuck",
  "puppet_cpi",
 ]
 

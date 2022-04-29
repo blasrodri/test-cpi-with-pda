@@ -18,3 +18,4 @@ default = []
 [dependencies]
 anchor-lang = "0.23.0"
 puppet_cpi = { path = "../puppet_cpi", features = ["cpi"]}
+bytemuck = "1.9"
