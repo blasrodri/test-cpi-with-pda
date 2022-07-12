@@ -23,7 +23,7 @@ describe("puppet_cpi", () => {
   // const pdaId = "37f9b205-998c-4583-8d58-ebb7db846755";
 
   // unsuccessful uid
-  const pdaId = "25df58b2-e5a7-46c7-9803-fdfd2a3895";
+  const pdaId = "25df58b2-e5a7-46c7-9803-fdfd2a3895d4";
   
 
   it("funds the user", async () => {
