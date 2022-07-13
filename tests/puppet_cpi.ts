@@ -8,7 +8,7 @@ const assert = require("assert");
 describe("puppet_cpi", () => {
   // Configure the client to use the local cluster
 
-  const provider = anchor.Provider.env();
+  const provider = anchor.getProvider();
 
   anchor.setProvider(provider);
 
